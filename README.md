@@ -16,4 +16,6 @@
 
 [2、爬楼梯](https://github.com/louzhedong/blog/issues/6)
 
-[2、使用最小花费爬楼梯](https://github.com/louzhedong/blog/issues/7)
+[3、使用最小花费爬楼梯](https://github.com/louzhedong/blog/issues/7)
+
+[4、电话号码的字母组合](https://github.com/louzhedong/blog/issues/8)
