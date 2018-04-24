@@ -13,4 +13,7 @@
 ## 每天一道算法题
 
 [1、盛最多水的容器](https://github.com/louzhedong/blog/issues/5)
+
 [2、爬楼梯](https://github.com/louzhedong/blog/issues/6)
+
+[2、使用最小花费爬楼梯](https://github.com/louzhedong/blog/issues/7)
