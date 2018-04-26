@@ -21,3 +21,5 @@
 [4、电话号码的字母组合](https://github.com/louzhedong/blog/issues/8)
 
 [5、四数之和](https://github.com/louzhedong/blog/issues/9)
+
+[5、括号组合](https://github.com/louzhedong/blog/issues/10)
