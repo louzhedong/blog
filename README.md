@@ -12,14 +12,26 @@
 
 ## 每天一道算法题
 
+###双指针
+
 [1、盛最多水的容器](https://github.com/louzhedong/blog/issues/5)
 
-[2、爬楼梯](https://github.com/louzhedong/blog/issues/6)
+[2、四数之和](https://github.com/louzhedong/blog/issues/9)
 
-[3、使用最小花费爬楼梯](https://github.com/louzhedong/blog/issues/7)
+###动态规划
 
-[4、电话号码的字母组合](https://github.com/louzhedong/blog/issues/8)
+[1、爬楼梯](https://github.com/louzhedong/blog/issues/6)
 
-[5、四数之和](https://github.com/louzhedong/blog/issues/9)
+[2、使用最小花费爬楼梯](https://github.com/louzhedong/blog/issues/7)
 
-[5、括号组合](https://github.com/louzhedong/blog/issues/10)
+###递归
+
+[1、电话号码的字母组合](https://github.com/louzhedong/blog/issues/8)
+
+[2、括号组合](https://github.com/louzhedong/blog/issues/10)
+
+
+
+
+
+
