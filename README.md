@@ -18,6 +18,8 @@
 
 [2、四数之和](https://github.com/louzhedong/blog/issues/9)
 
+[3、删除链表的倒数第N个节点](https://github.com/louzhedong/blog/issues/11)
+
 ### 动态规划
 
 [1、爬楼梯](https://github.com/louzhedong/blog/issues/6)
