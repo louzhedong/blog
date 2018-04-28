@@ -32,6 +32,8 @@
 
 [2、括号组合](https://github.com/louzhedong/blog/issues/10)
 
+[3、组合总和](https://github.com/louzhedong/blog/issues/13)
+
 ### 辗转相除
 
 [1、两数相除](https://github.com/louzhedong/blog/issues/12)
