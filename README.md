@@ -34,6 +34,8 @@
 
 [3、组合总和](https://github.com/louzhedong/blog/issues/13)
 
+[4、组合总和2](https://github.com/louzhedong/blog/issues/14)
+
 ### 辗转相除
 
 [1、两数相除](https://github.com/louzhedong/blog/issues/12)
