@@ -46,5 +46,9 @@
 
 [2、有效的数独](https://github.com/louzhedong/blog/issues/16)
 
+### 字符串
+
+[1、字符串相乘](https://github.com/louzhedong/blog/issues/17)
+
 
 
