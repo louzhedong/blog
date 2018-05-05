@@ -36,6 +36,8 @@
 
 [4、组合总和2](https://github.com/louzhedong/blog/issues/14)
 
+[5、全排列](https://github.com/louzhedong/blog/issues/18)
+
 ### 辗转相除
 
 [1、两数相除](https://github.com/louzhedong/blog/issues/12)
