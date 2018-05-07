@@ -38,6 +38,8 @@
 
 [5、全排列](https://github.com/louzhedong/blog/issues/18)
 
+[6、全排列2](https://github.com/louzhedong/blog/issues/19)
+
 ### 辗转相除
 
 [1、两数相除](https://github.com/louzhedong/blog/issues/12)
