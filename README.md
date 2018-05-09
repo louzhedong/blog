@@ -20,6 +20,8 @@
 
 [3、删除链表的倒数第N个节点](https://github.com/louzhedong/blog/issues/11)
 
+[4、不重复的工牌](https://github.com/louzhedong/blog/issues/21)
+
 ### 动态规划
 
 [1、爬楼梯](https://github.com/louzhedong/blog/issues/6)
