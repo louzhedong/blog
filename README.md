@@ -56,6 +56,7 @@
 
 [4、合并区间](https://github.com/louzhedong/blog/issues/23)
 
+[5、下一个排序](https://github.com/louzhedong/blog/issues/24)
 
 ### 字符串
 
