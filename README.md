@@ -58,6 +58,8 @@
 
 [5、下一个排序](https://github.com/louzhedong/blog/issues/24)
 
+[6、矩阵置零](https://github.com/louzhedong/blog/issues/26)
+
 ### 字符串
 
 [1、字符串相乘](https://github.com/louzhedong/blog/issues/17)
