@@ -24,6 +24,8 @@
 
 [4、不重复的工牌](https://github.com/louzhedong/blog/issues/21)
 
+[5、分类颜色](https://github.com/louzhedong/blog/issues/29)
+
 ### 动态规划
 
 [1、爬楼梯](https://github.com/louzhedong/blog/issues/6)
