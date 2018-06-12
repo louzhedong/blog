@@ -12,6 +12,8 @@
 
 [5、前端跨域问题总结](https://github.com/louzhedong/blog/issues/27)
 
+[6、Vue服务端渲染项目配置](https://github.com/louzhedong/blog/issues/30)
+
 ## 每天一道算法题
 
 ### 双指针
