@@ -50,6 +50,8 @@
 
 [7、组合](https://github.com/louzhedong/blog/issues/32)
 
+[8、子集](https://github.com/louzhedong/blog/issues/33)
+
 ### 辗转相除
 
 [1、两数相除](https://github.com/louzhedong/blog/issues/12)
