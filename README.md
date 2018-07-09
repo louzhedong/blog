@@ -72,6 +72,8 @@
 
 [6、矩阵置零](https://github.com/louzhedong/blog/issues/26)
 
+[7、删除排序数组中的重复项 II](https://github.com/louzhedong/blog/issues/35)
+
 ### 字符串
 
 [1、字符串相乘](https://github.com/louzhedong/blog/issues/17)
