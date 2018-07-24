@@ -54,6 +54,8 @@
 
 [9、单词搜索](https://github.com/louzhedong/blog/issues/34)
 
+[10、复原IP地址](https://github.com/louzhedong/blog/issues/38)
+
 ### 辗转相除
 
 [1、两数相除](https://github.com/louzhedong/blog/issues/12)
