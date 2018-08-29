@@ -60,6 +60,8 @@
 
 [12、从前序与中序遍历序列构造二叉树](https://github.com/louzhedong/blog/issues/40)
 
+[13、子集 II](https://github.com/louzhedong/blog/issues/41)
+
 ### 辗转相除
 
 [1、两数相除](https://github.com/louzhedong/blog/issues/12)
