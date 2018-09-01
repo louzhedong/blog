@@ -90,6 +90,8 @@
 
 [2、字母异位词分组](https://github.com/louzhedong/blog/issues/22)
 
+[3、字符串转整数 (atoi)](https://github.com/louzhedong/blog/issues/44)
+
 ### 二分查找
 
 [1、搜索旋转排序数组](https://github.com/louzhedong/blog/issues/25)
