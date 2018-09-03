@@ -28,6 +28,8 @@
 
 [5、分类颜色](https://github.com/louzhedong/blog/issues/29)
 
+[6、最接近的三数之和](https://github.com/louzhedong/blog/issues/45)
+
 ### 动态规划
 
 [1、爬楼梯](https://github.com/louzhedong/blog/issues/6)
