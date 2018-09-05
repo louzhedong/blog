@@ -94,6 +94,8 @@
 
 [3、字符串转整数 (atoi)](https://github.com/louzhedong/blog/issues/44)
 
+[4、与所有单词相关联的字串](https://github.com/louzhedong/blog/issues/49)
+
 ### 二分查找
 
 [1、搜索旋转排序数组](https://github.com/louzhedong/blog/issues/25)
