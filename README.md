@@ -107,6 +107,7 @@
 [3、搜索旋转排序数组 II](https://github.com/louzhedong/blog/issues/36)
 
 ### 链表
+
 [1、删除排序链表中的重复元素 II](https://github.com/louzhedong/blog/issues/37)
 
 [2、两数相加](https://github.com/louzhedong/blog/issues/43)
@@ -116,3 +117,7 @@
 [4、两两交换链表中的节点](https://github.com/louzhedong/blog/issues/47)
 
 [5、k个一组翻转链表](https://github.com/louzhedong/blog/issues/48)
+
+### 回溯法
+
+[1、解数独](https://github.com/louzhedong/blog/issues/51)
