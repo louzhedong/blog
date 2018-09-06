@@ -96,6 +96,8 @@
 
 [4、与所有单词相关联的字串](https://github.com/louzhedong/blog/issues/49)
 
+[5、最长有效括号](https://github.com/louzhedong/blog/issues/50)
+
 ### 二分查找
 
 [1、搜索旋转排序数组](https://github.com/louzhedong/blog/issues/25)
