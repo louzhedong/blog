@@ -30,6 +30,8 @@
 
 [6、最接近的三数之和](https://github.com/louzhedong/blog/issues/45)
 
+[7、接雨水](https://github.com/louzhedong/blog/issues/52)
+
 ### 动态规划
 
 [1、爬楼梯](https://github.com/louzhedong/blog/issues/6)
