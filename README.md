@@ -42,6 +42,8 @@
 
 [4、通配符匹配](https://github.com/louzhedong/blog/issues/53)
 
+[5、跳跃游戏 II](https://github.com/louzhedong/blog/issues/54)
+
 ### 递归
 
 [1、电话号码的字母组合](https://github.com/louzhedong/blog/issues/8)
