@@ -40,6 +40,8 @@
 
 [3、正则表达式匹配](https://github.com/louzhedong/blog/issues/42)
 
+[4、通配符匹配](https://github.com/louzhedong/blog/issues/53)
+
 ### 递归
 
 [1、电话号码的字母组合](https://github.com/louzhedong/blog/issues/8)
