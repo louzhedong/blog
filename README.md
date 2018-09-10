@@ -129,3 +129,5 @@
 [1、解数独](https://github.com/louzhedong/blog/issues/51)
 
 [2、N皇后](https://github.com/louzhedong/blog/issues/55)
+
+[3、N皇后 II](https://github.com/louzhedong/blog/issues/56)
