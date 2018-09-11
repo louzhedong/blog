@@ -46,6 +46,8 @@
 
 [5、跳跃游戏 II](https://github.com/louzhedong/blog/issues/54)
 
+[6、跳跃游戏](https://github.com/louzhedong/blog/issues/58)
+
 ### 递归
 
 [1、电话号码的字母组合](https://github.com/louzhedong/blog/issues/8)
