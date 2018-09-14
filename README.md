@@ -134,6 +134,8 @@
 
 [5、k个一组翻转链表](https://github.com/louzhedong/blog/issues/48)
 
+[6、旋转链表](https://github.com/louzhedong/blog/issues/62)
+
 ### 回溯法
 
 [1、解数独](https://github.com/louzhedong/blog/issues/51)
