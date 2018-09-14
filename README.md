@@ -100,6 +100,8 @@
 
 [8、插入区间](https://github.com/louzhedong/blog/issues/59)
 
+[9、第k个排列](https://github.com/louzhedong/blog/issues/61)
+
 ### 字符串
 
 [1、字符串相乘](https://github.com/louzhedong/blog/issues/17)
