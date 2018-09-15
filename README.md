@@ -54,6 +54,8 @@
 
 [8、不同路径 II](https://github.com/louzhedong/blog/issues/64)
 
+[9、最小路径和](https://github.com/louzhedong/blog/issues/65)
+
 ### 递归
 
 [1、电话号码的字母组合](https://github.com/louzhedong/blog/issues/8)
