@@ -120,6 +120,8 @@
 
 [5、最长有效括号](https://github.com/louzhedong/blog/issues/50)
 
+[6、文本左右对齐](https://github.com/louzhedong/blog/issues/66)
+
 ### 二分查找
 
 [1、搜索旋转排序数组](https://github.com/louzhedong/blog/issues/25)
