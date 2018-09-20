@@ -122,6 +122,8 @@
 
 [6、文本左右对齐](https://github.com/louzhedong/blog/issues/66)
 
+[7、简化路径](https://github.com/louzhedong/blog/issues/67)
+
 ### 二分查找
 
 [1、搜索旋转排序数组](https://github.com/louzhedong/blog/issues/25)
