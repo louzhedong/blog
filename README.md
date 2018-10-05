@@ -146,6 +146,8 @@
 
 [6、旋转链表](https://github.com/louzhedong/blog/issues/62)
 
+[7、分隔链表](https://github.com/louzhedong/blog/issues/68)
+
 ### 回溯法
 
 [1、解数独](https://github.com/louzhedong/blog/issues/51)
