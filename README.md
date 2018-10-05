@@ -148,6 +148,8 @@
 
 [7、分隔链表](https://github.com/louzhedong/blog/issues/68)
 
+[8、反转链表 II](https://github.com/louzhedong/blog/issues/69)
+
 ### 回溯法
 
 [1、解数独](https://github.com/louzhedong/blog/issues/51)
