@@ -110,6 +110,8 @@
 
 [9、第k个排列](https://github.com/louzhedong/blog/issues/61)
 
+[10、柱状图中最大的矩形](https://github.com/louzhedong/blog/issues/72)
+
 ### 字符串
 
 [1、字符串相乘](https://github.com/louzhedong/blog/issues/17)
