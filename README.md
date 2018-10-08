@@ -1,3 +1,7 @@
+
+[![GitHub stars](https://img.shields.io/github/stars/louzhedong/blog.svg?style=social)](https://github.com/louzhedong/blog/stargazers)
+
+
 # 文章列表
 
 ## 前端知识
