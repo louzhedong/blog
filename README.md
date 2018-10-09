@@ -116,6 +116,8 @@
 
 [10、柱状图中最大的矩形](https://github.com/louzhedong/blog/issues/72)
 
+[11、最大矩形](https://github.com/louzhedong/blog/issues/73)
+
 ### 字符串
 
 [1、字符串相乘](https://github.com/louzhedong/blog/issues/17)
