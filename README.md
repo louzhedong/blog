@@ -62,7 +62,9 @@
 
 [10、编辑距离](https://github.com/louzhedong/blog/issues/70)
 
-[11、不同的二叉搜索树 II](https://github.com/louzhedong/blog/issues/74)
+[11、不同的二叉搜索树](https://github.com/louzhedong/blog/issues/75)
+
+[12、不同的二叉搜索树 II](https://github.com/louzhedong/blog/issues/74)
 
 ### 递归
 
