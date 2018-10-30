@@ -96,6 +96,8 @@
 
 [13、子集 II](https://github.com/louzhedong/blog/issues/41)
 
+[14、格雷编码](https://github.com/louzhedong/blog/issues/77)
+
 ### 辗转相除
 
 [1、两数相除](https://github.com/louzhedong/blog/issues/12)
