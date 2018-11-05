@@ -68,6 +68,8 @@
 
 [13、扰乱字符串](https://github.com/louzhedong/blog/issues/76)
 
+[14、解码方法](https://github.com/louzhedong/blog/issues/78)
+
 ### 递归
 
 [1、电话号码的字母组合](https://github.com/louzhedong/blog/issues/8)
