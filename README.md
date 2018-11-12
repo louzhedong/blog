@@ -104,6 +104,8 @@
 
 [15、验证二叉搜索树](https://github.com/louzhedong/blog/issues/80)
 
+[16、恢复二叉搜索树](https://github.com/louzhedong/blog/issues/81)
+
 ### 辗转相除
 
 [1、两数相除](https://github.com/louzhedong/blog/issues/12)
