@@ -108,6 +108,8 @@
 
 [17、Pow(x, n)](https://github.com/louzhedong/blog/issues/82)
 
+[18、从中序与后序遍历序列构造二叉树](https://github.com/louzhedong/blog/issues/84)
+
 ### 辗转相除
 
 [1、两数相除](https://github.com/louzhedong/blog/issues/12)
