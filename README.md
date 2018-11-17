@@ -110,6 +110,8 @@
 
 [18、从中序与后序遍历序列构造二叉树](https://github.com/louzhedong/blog/issues/84)
 
+[19、有序链表转换二叉搜索树](https://github.com/louzhedong/blog/issues/85)
+
 ### 辗转相除
 
 [1、两数相除](https://github.com/louzhedong/blog/issues/12)
