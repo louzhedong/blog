@@ -114,6 +114,8 @@
 
 [20、二叉树的最小深度](https://github.com/louzhedong/blog/issues/86)
 
+[21、路径总和](https://github.com/louzhedong/blog/issues/87)
+
 ### 辗转相除
 
 [1、两数相除](https://github.com/louzhedong/blog/issues/12)
