@@ -112,6 +112,8 @@
 
 [19、有序链表转换二叉搜索树](https://github.com/louzhedong/blog/issues/85)
 
+[20、二叉树的最小深度](https://github.com/louzhedong/blog/issues/86)
+
 ### 辗转相除
 
 [1、两数相除](https://github.com/louzhedong/blog/issues/12)
