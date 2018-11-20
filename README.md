@@ -116,6 +116,8 @@
 
 [21、路径总和](https://github.com/louzhedong/blog/issues/87)
 
+[22、路径总和 II](https://github.com/louzhedong/blog/issues/88)
+
 ### 辗转相除
 
 [1、两数相除](https://github.com/louzhedong/blog/issues/12)
