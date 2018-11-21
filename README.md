@@ -118,6 +118,8 @@
 
 [22、路径总和 II](https://github.com/louzhedong/blog/issues/88)
 
+[23、二叉树展开为链表](https://github.com/louzhedong/blog/issues/89)
+
 ### 辗转相除
 
 [1、两数相除](https://github.com/louzhedong/blog/issues/12)
