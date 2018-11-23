@@ -154,6 +154,8 @@
 
 [13、杨辉三角](https://github.com/louzhedong/blog/issues/93)
 
+[14、杨辉三角 II](https://github.com/louzhedong/blog/issues/94)
+
 ### 字符串
 
 [1、字符串相乘](https://github.com/louzhedong/blog/issues/17)
