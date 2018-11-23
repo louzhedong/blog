@@ -152,6 +152,8 @@
 
 [12、二叉树的锯齿形层次遍历](https://github.com/louzhedong/blog/issues/83)
 
+[13、杨辉三角](https://github.com/louzhedong/blog/issues/93)
+
 ### 字符串
 
 [1、字符串相乘](https://github.com/louzhedong/blog/issues/17)
