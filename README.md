@@ -20,6 +20,8 @@
 
 [7、z-index总结](https://github.com/louzhedong/blog/issues/95)
 
+[8、图片分辨率切换](https://github.com/louzhedong/blog/issues/97)
+
 ## 每天一道算法题
 
 ### 双指针
