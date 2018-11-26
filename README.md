@@ -76,6 +76,8 @@
 
 [16、不同的子序列](https://github.com/louzhedong/blog/issues/90)
 
+[17、三角形最小路径和](https://github.com/louzhedong/blog/issues/96)
+
 ### 递归
 
 [1、电话号码的字母组合](https://github.com/louzhedong/blog/issues/8)
