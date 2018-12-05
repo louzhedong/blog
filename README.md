@@ -130,6 +130,8 @@
 
 [23、二叉树展开为链表](https://github.com/louzhedong/blog/issues/89)
 
+[24、二叉树中的最大路径和](https://github.com/louzhedong/blog/issues/102)
+
 ### 辗转相除
 
 [1、两数相除](https://github.com/louzhedong/blog/issues/12)
