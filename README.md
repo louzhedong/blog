@@ -132,6 +132,8 @@
 
 [24、二叉树中的最大路径和](https://github.com/louzhedong/blog/issues/102)
 
+[25、求根到叶子节点数字之和](https://github.com/louzhedong/blog/issues/104)
+
 ### 辗转相除
 
 [1、两数相除](https://github.com/louzhedong/blog/issues/12)
