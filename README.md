@@ -22,6 +22,10 @@
 
 [8、图片分辨率切换](https://github.com/louzhedong/blog/issues/97)
 
+[9、call和apply实现](https://github.com/louzhedong/blog/issues/106)
+
+[10、bind实现](https://github.com/louzhedong/blog/issues/107)
+
 ## 每天一道算法题
 
 ### 双指针
