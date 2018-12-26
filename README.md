@@ -242,7 +242,7 @@
 
 [11、复制带随机指针的链表](https://github.com/louzhedong/blog/issues/112)
 
-[12、 环形链表](https://github.com/louzhedong/blog/issues/114)
+[12、环形链表](https://github.com/louzhedong/blog/issues/114)
 
 ### 回溯法
 
