@@ -28,6 +28,8 @@
 
 [11、深浅拷贝实现](https://github.com/louzhedong/blog/issues/108)
 
+[12、原生JS实现hash路由](https://github.com/louzhedong/blog/issues/119)
+
 ## 每天一道算法题
 
 ### 双指针
