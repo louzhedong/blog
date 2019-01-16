@@ -30,6 +30,8 @@
 
 [12、原生JS实现hash路由](https://github.com/louzhedong/blog/issues/119)
 
+[13、原生JS实现轮播图](https://github.com/louzhedong/blog/issues/120)
+
 ## 每天一道算法题
 
 ### 双指针
