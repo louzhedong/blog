@@ -170,6 +170,8 @@
 
 [17、只出现一次的数字 II](https://github.com/louzhedong/blog/issues/111)
 
+[18、LRU缓存机制](https://github.com/louzhedong/blog/issues/121)
+
 ### 字符串
 
 [1、字符串相乘](https://github.com/louzhedong/blog/issues/17)
