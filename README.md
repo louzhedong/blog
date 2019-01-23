@@ -230,6 +230,8 @@
 
 [14、重排链表](https://github.com/louzhedong/blog/issues/116)
 
+[15、对链表进行插入排序](https://github.com/louzhedong/blog/issues/122)
+
 ### 回溯法
 
 [1、解数独](https://github.com/louzhedong/blog/issues/51)
