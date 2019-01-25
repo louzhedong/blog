@@ -232,6 +232,8 @@
 
 [15、对链表进行插入排序](https://github.com/louzhedong/blog/issues/122)
 
+[16、排序链表](https://github.com/louzhedong/blog/issues/123)
+
 ### 回溯法
 
 [1、解数独](https://github.com/louzhedong/blog/issues/51)
