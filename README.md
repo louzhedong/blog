@@ -172,6 +172,8 @@
 
 [18、LRU缓存机制](https://github.com/louzhedong/blog/issues/121)
 
+[19、直线上最多的点数](https://github.com/louzhedong/blog/issues/124)
+
 ### 字符串
 
 [1、字符串相乘](https://github.com/louzhedong/blog/issues/17)
