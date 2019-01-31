@@ -196,6 +196,8 @@
 
 [9、验证回文串](https://github.com/louzhedong/blog/issues/101)
 
+[10、翻转字符串里的单词](https://github.com/louzhedong/blog/issues/126)
+
 ### 二分查找
 
 [1、搜索旋转排序数组](https://github.com/louzhedong/blog/issues/25)
