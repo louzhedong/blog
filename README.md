@@ -32,6 +32,10 @@
 
 [13、原生JS实现轮播图](https://github.com/louzhedong/blog/issues/120)
 
+## 基础数据结构和算法
+
+[1、快速排序](https://github.com/louzhedong/blog/issues/127)
+
 ## 每天一道算法题
 
 ### 双指针
