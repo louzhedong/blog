@@ -180,6 +180,8 @@
 
 [20、逆波兰表达式求值](https://github.com/louzhedong/blog/issues/125)
 
+[21、乘积最大子序列](https://github.com/louzhedong/blog/issues/128)
+
 ### 字符串
 
 [1、字符串相乘](https://github.com/louzhedong/blog/issues/17)
