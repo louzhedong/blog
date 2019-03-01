@@ -36,6 +36,8 @@
 
 [15、面试题2](https://github.com/louzhedong/blog/issues/131)
 
+[16、短链接原理](https://github.com/louzhedong/blog/issues/133)
+
 ## 基础数据结构和算法
 
 [1、快速排序](https://github.com/louzhedong/blog/issues/127)
