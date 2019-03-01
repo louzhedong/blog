@@ -32,9 +32,9 @@
 
 [13、原生JS实现轮播图](https://github.com/louzhedong/blog/issues/120)
 
-[14、面试题1](https://github.com/louzhedong/blog/issues/132)
+[14、面试题1](https://github.com/louzhedong/blog/issues/131)
 
-[15、面试题2](https://github.com/louzhedong/blog/issues/131)
+[15、面试题2](https://github.com/louzhedong/blog/issues/132)
 
 [16、短链接原理](https://github.com/louzhedong/blog/issues/133)
 
