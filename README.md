@@ -28,13 +28,15 @@
 
 ## 前端深入系列
 
-[1、原生JS实现hash路由](https://github.com/louzhedong/blog/issues/119)
+[1、Javascript继承](https://github.com/louzhedong/blog/issues/134)
 
-[2、面试题：你能写一个Vue的双向数据绑定吗？](https://github.com/louzhedong/blog/issues/4)
+[2、原生JS实现hash路由](https://github.com/louzhedong/blog/issues/119)
 
-[3、call和apply实现](https://github.com/louzhedong/blog/issues/106)
+[3、面试题：你能写一个Vue的双向数据绑定吗？](https://github.com/louzhedong/blog/issues/4)
 
-[4、bind实现](https://github.com/louzhedong/blog/issues/107)
+[4、call和apply实现](https://github.com/louzhedong/blog/issues/106)
+
+[5、bind实现](https://github.com/louzhedong/blog/issues/107)
 
 ## 面试习题系列
 
