@@ -201,6 +201,8 @@
 
 [22、寻找旋转排序数组中的最小值](https://github.com/louzhedong/blog/issues/129)
 
+[23、旋转数组](https://github.com/louzhedong/blog/issues/138)
+
 ### 字符串
 
 [1、字符串相乘](https://github.com/louzhedong/blog/issues/17)
