@@ -310,3 +310,5 @@
 [14、二叉树的后序遍历](https://github.com/louzhedong/blog/issues/118)
 
 [15、二叉树的右视图](https://github.com/louzhedong/blog/issues/139)
+
+[16、完全二叉树的节点个数](https://github.com/louzhedong/blog/issues/140)
