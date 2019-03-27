@@ -273,6 +273,8 @@
 
 [16、排序链表](https://github.com/louzhedong/blog/issues/123)
 
+[17、移除链表元素](https://github.com/louzhedong/blog/issues/144)
+
 ### 回溯法
 
 [1、解数独](https://github.com/louzhedong/blog/issues/51)
