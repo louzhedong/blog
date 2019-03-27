@@ -26,6 +26,8 @@
 
 [10、短链接原理](https://github.com/louzhedong/blog/issues/133)
 
+[11、BFC原理解析](https://github.com/louzhedong/blog/issues/145)
+
 ## 前端深入系列
 
 [1、Javascript继承](https://github.com/louzhedong/blog/issues/134)
