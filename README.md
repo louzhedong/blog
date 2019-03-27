@@ -42,6 +42,8 @@
 
 [6、new原理及实现](https://github.com/louzhedong/blog/issues/143)
 
+[7、编写一个模块化组件](https://github.com/louzhedong/blog/issues/146)
+
 ## 面试习题系列
 
 [1、面试题1](https://github.com/louzhedong/blog/issues/131)
