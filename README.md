@@ -324,3 +324,5 @@
 [17、二叉搜索树中第K小的元素](https://github.com/louzhedong/blog/issues/141)
 
 [18、二叉搜索树的最近公共祖先](https://github.com/louzhedong/blog/issues/142)
+
+[19、二叉树的最近公共祖先](https://github.com/louzhedong/blog/issues/147)
