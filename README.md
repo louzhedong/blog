@@ -44,6 +44,8 @@
 
 [7、编写一个模块化组件](https://github.com/louzhedong/blog/issues/146)
 
+[8、Promise规范及实现](https://github.com/louzhedong/blog/issues/150)
+
 ## 面试习题系列
 
 [1、面试题1](https://github.com/louzhedong/blog/issues/131)
