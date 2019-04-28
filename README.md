@@ -213,6 +213,8 @@
 
 [23、旋转数组](https://github.com/louzhedong/blog/issues/138)
 
+[24、用栈实现队列](https://github.com/louzhedong/blog/issues/151)
+
 ### 字符串
 
 [1、字符串相乘](https://github.com/louzhedong/blog/issues/17)
