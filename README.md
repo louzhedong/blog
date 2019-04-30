@@ -215,6 +215,8 @@
 
 [24、用栈实现队列](https://github.com/louzhedong/blog/issues/151)
 
+[25、只出现一次的数字 III](https://github.com/louzhedong/blog/issues/152)
+
 ### 字符串
 
 [1、字符串相乘](https://github.com/louzhedong/blog/issues/17)
