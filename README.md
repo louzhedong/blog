@@ -289,6 +289,8 @@
 
 [17、移除链表元素](https://github.com/louzhedong/blog/issues/144)
 
+[18、回文链表](https://github.com/louzhedong/blog/issues/154)
+
 ### 回溯法
 
 [1、解数独](https://github.com/louzhedong/blog/issues/51)
