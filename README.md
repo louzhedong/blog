@@ -223,6 +223,8 @@
 
 [26、搜索二维矩阵 II](https://github.com/louzhedong/blog/issues/153)
 
+[27、存在重复元素 II](https://github.com/louzhedong/blog/issues/158)
+
 ### 字符串
 
 [1、字符串相乘](https://github.com/louzhedong/blog/issues/17)
