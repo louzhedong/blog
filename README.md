@@ -263,6 +263,8 @@
 
 [4、寻找峰值](https://github.com/louzhedong/blog/issues/130)
 
+[5、计数质数](https://github.com/louzhedong/blog/issues/161)
+
 ### 链表
 
 [1、删除排序链表中的重复元素 II](https://github.com/louzhedong/blog/issues/37)
