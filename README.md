@@ -253,6 +253,8 @@
 
 [12、重复的DNA序列](https://github.com/louzhedong/blog/issues/159)
 
+[13、同构字符串](https://github.com/louzhedong/blog/issues/162)
+
 ### 二分查找
 
 [1、搜索旋转排序数组](https://github.com/louzhedong/blog/issues/25)
