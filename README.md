@@ -46,6 +46,8 @@
 
 [8、Promise规范及实现](https://github.com/louzhedong/blog/issues/150)
 
+[9、做一个Vue的Toast组件](https://github.com/louzhedong/blog/issues/163)
+
 ## 面试习题系列
 
 [1、面试题1](https://github.com/louzhedong/blog/issues/131)
