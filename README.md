@@ -48,6 +48,8 @@
 
 [9、做一个Vue的Toast组件](https://github.com/louzhedong/blog/issues/163)
 
+[10、图片压缩](https://github.com/louzhedong/blog/issues/164)
+
 ## 面试习题系列
 
 [1、面试题1](https://github.com/louzhedong/blog/issues/131)
