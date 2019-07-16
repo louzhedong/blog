@@ -30,6 +30,8 @@
 
 [12、方法链式调用](https://github.com/louzhedong/blog/issues/165)
 
+[13、vue+jest配置](https://github.com/louzhedong/blog/issues/166)
+
 ## 前端深入系列
 
 [1、Javascript继承](https://github.com/louzhedong/blog/issues/134)
