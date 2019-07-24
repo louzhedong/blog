@@ -32,6 +32,8 @@
 
 [13、vue+jest配置](https://github.com/louzhedong/blog/issues/166)
 
+[14、JS动态引入](https://github.com/louzhedong/blog/issues/167)
+
 ## 前端深入系列
 
 [1、Javascript继承](https://github.com/louzhedong/blog/issues/134)
