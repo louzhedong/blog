@@ -237,6 +237,8 @@
 
 [27、存在重复元素 II](https://github.com/louzhedong/blog/issues/158)
 
+[28、最大唯一数](https://github.com/louzhedong/blog/issues/168)
+
 ### 字符串
 
 [1、字符串相乘](https://github.com/louzhedong/blog/issues/17)
