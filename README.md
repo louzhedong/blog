@@ -267,6 +267,8 @@
 
 [13、同构字符串](https://github.com/louzhedong/blog/issues/162)
 
+[14、阿姆斯特朗数](https://github.com/louzhedong/blog/issues/169)
+
 ### 二分查找
 
 [1、搜索旋转排序数组](https://github.com/louzhedong/blog/issues/25)
