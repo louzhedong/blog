@@ -269,6 +269,8 @@
 
 [14、阿姆斯特朗数](https://github.com/louzhedong/blog/issues/169)
 
+[15、字母板上的路径](https://github.com/louzhedong/blog/issues/170)
+
 ### 二分查找
 
 [1、搜索旋转排序数组](https://github.com/louzhedong/blog/issues/25)
