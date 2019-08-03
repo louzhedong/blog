@@ -56,6 +56,8 @@
 
 [10、图片压缩](https://github.com/louzhedong/blog/issues/164)
 
+[11、JS中的this](https://github.com/louzhedong/blog/issues/172)
+
 ## 面试习题系列
 
 [1、面试题1](https://github.com/louzhedong/blog/issues/131)
