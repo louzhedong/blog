@@ -243,6 +243,8 @@
 
 [28、最大唯一数](https://github.com/louzhedong/blog/issues/168)
 
+[29、递减元素使数组呈锯齿状](https://github.com/louzhedong/blog/issues/173)
+
 ### 字符串
 
 [1、字符串相乘](https://github.com/louzhedong/blog/issues/17)
