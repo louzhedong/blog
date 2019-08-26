@@ -60,6 +60,8 @@
 
 [12、Vue中滚动加载更多的实现](https://github.com/louzhedong/blog/issues/174)
 
+[13、Vue中Lazyload的一种实现](https://github.com/louzhedong/blog/issues/175)
+
 ## 面试习题系列
 
 [1、面试题1](https://github.com/louzhedong/blog/issues/131)
