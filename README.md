@@ -66,6 +66,8 @@
 
 [14、浏览器缓存详解](https://github.com/louzhedong/blog/issues/177)
 
+[15、图片懒加载以及尺寸适配](待完成)
+
 ## 面试习题系列
 
 [1、面试题1](https://github.com/louzhedong/blog/issues/131)
