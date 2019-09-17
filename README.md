@@ -36,6 +36,8 @@
 
 [15、JS中的创建对象](https://github.com/louzhedong/blog/issues/176)
 
+[16、Node.js中package.json中库版本号详解](https://github.com/louzhedong/blog/issues/178)
+
 ## 前端深入系列
 
 [1、Javascript继承](https://github.com/louzhedong/blog/issues/134)
