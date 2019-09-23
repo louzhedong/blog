@@ -70,6 +70,8 @@
 
 [15、图片懒加载以及尺寸适配]()  (待完成)
 
+[16、DOM操作性能提升](https://github.com/louzhedong/blog/issues/179)
+
 ## 面试习题系列
 
 [1、面试题1](https://github.com/louzhedong/blog/issues/131)
