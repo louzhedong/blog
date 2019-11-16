@@ -72,6 +72,8 @@
 
 [16、DOM操作性能提升](https://github.com/louzhedong/blog/issues/179)
 
+[17、前端动画（一）](https://github.com/louzhedong/blog/issues/181)
+
 ## 面试习题系列
 
 [1、面试题1](https://github.com/louzhedong/blog/issues/131)
