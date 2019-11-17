@@ -6,37 +6,31 @@
 
 ## 前端基础系列
 
-[1、React高阶组件](https://github.com/louzhedong/blog/issues/1)
+[1、css 水平垂直居中实现方式](https://github.com/louzhedong/blog/issues/2)
 
-[2、css 水平垂直居中实现方式](https://github.com/louzhedong/blog/issues/2)
+[2、面试中会遇到的正则题](https://github.com/louzhedong/blog/issues/3)
 
-[3、面试中会遇到的正则题](https://github.com/louzhedong/blog/issues/3)
+[3、前端跨域问题总结](https://github.com/louzhedong/blog/issues/27)
 
-[4、前端跨域问题总结](https://github.com/louzhedong/blog/issues/27)
+[4、z-index总结](https://github.com/louzhedong/blog/issues/95)
 
-[5、Vue服务端渲染项目配置](https://github.com/louzhedong/blog/issues/30)
+[5、图片分辨率切换](https://github.com/louzhedong/blog/issues/97)
 
-[6、z-index总结](https://github.com/louzhedong/blog/issues/95)
+[6、深浅拷贝实现](https://github.com/louzhedong/blog/issues/108)
 
-[7、图片分辨率切换](https://github.com/louzhedong/blog/issues/97)
+[7、原生JS实现轮播图](https://github.com/louzhedong/blog/issues/120)
 
-[8、深浅拷贝实现](https://github.com/louzhedong/blog/issues/108)
+[8、短链接原理](https://github.com/louzhedong/blog/issues/133)
 
-[9、原生JS实现轮播图](https://github.com/louzhedong/blog/issues/120)
+[9、BFC原理解析](https://github.com/louzhedong/blog/issues/145)
 
-[10、短链接原理](https://github.com/louzhedong/blog/issues/133)
+[10、方法链式调用](https://github.com/louzhedong/blog/issues/165)
 
-[11、BFC原理解析](https://github.com/louzhedong/blog/issues/145)
+[11、JS动态引入](https://github.com/louzhedong/blog/issues/167)
 
-[12、方法链式调用](https://github.com/louzhedong/blog/issues/165)
+[12、JS中的创建对象](https://github.com/louzhedong/blog/issues/176)
 
-[13、vue+jest配置](https://github.com/louzhedong/blog/issues/166)
-
-[14、JS动态引入](https://github.com/louzhedong/blog/issues/167)
-
-[15、JS中的创建对象](https://github.com/louzhedong/blog/issues/176)
-
-[16、Node.js中package.json中库版本号详解](https://github.com/louzhedong/blog/issues/178)
+[13、Node.js中package.json中库版本号详解](https://github.com/louzhedong/blog/issues/178)
 
 ## 前端深入系列
 
@@ -44,35 +38,45 @@
 
 [2、原生JS实现hash路由](https://github.com/louzhedong/blog/issues/119)
 
+[3、call和apply实现](https://github.com/louzhedong/blog/issues/106)
+
+[4、bind实现](https://github.com/louzhedong/blog/issues/107)
+
+[5、new原理及实现](https://github.com/louzhedong/blog/issues/143)
+
+[6、编写一个模块化组件](https://github.com/louzhedong/blog/issues/146)
+
+[7、Promise规范及实现](https://github.com/louzhedong/blog/issues/180)
+
+[8、图片压缩](https://github.com/louzhedong/blog/issues/164)
+
+[9、JS中的this](https://github.com/louzhedong/blog/issues/172)
+
+[10、浏览器缓存详解](https://github.com/louzhedong/blog/issues/177)
+
+[11、图片懒加载以及尺寸适配]()  (待完成)
+
+[12、DOM操作性能提升](https://github.com/louzhedong/blog/issues/179)
+
+[13、前端动画（一）](https://github.com/louzhedong/blog/issues/181)
+
+## Vue系列
+
+[1、Vue服务端渲染项目配置](https://github.com/louzhedong/blog/issues/30)
+
+[2、vue+jest配置](https://github.com/louzhedong/blog/issues/166)
+
 [3、面试题：你能写一个Vue的双向数据绑定吗？](https://github.com/louzhedong/blog/issues/4)
 
-[4、call和apply实现](https://github.com/louzhedong/blog/issues/106)
+[4、做一个Vue的Toast组件](https://github.com/louzhedong/blog/issues/163)
 
-[5、bind实现](https://github.com/louzhedong/blog/issues/107)
+[5、Vue中滚动加载更多的实现](https://github.com/louzhedong/blog/issues/174)
 
-[6、new原理及实现](https://github.com/louzhedong/blog/issues/143)
+[6、Vue中Lazyload的一种实现](https://github.com/louzhedong/blog/issues/175)
 
-[7、编写一个模块化组件](https://github.com/louzhedong/blog/issues/146)
+## React系列
 
-[8、Promise规范及实现](https://github.com/louzhedong/blog/issues/180)
-
-[9、做一个Vue的Toast组件](https://github.com/louzhedong/blog/issues/163)
-
-[10、图片压缩](https://github.com/louzhedong/blog/issues/164)
-
-[11、JS中的this](https://github.com/louzhedong/blog/issues/172)
-
-[12、Vue中滚动加载更多的实现](https://github.com/louzhedong/blog/issues/174)
-
-[13、Vue中Lazyload的一种实现](https://github.com/louzhedong/blog/issues/175)
-
-[14、浏览器缓存详解](https://github.com/louzhedong/blog/issues/177)
-
-[15、图片懒加载以及尺寸适配]()  (待完成)
-
-[16、DOM操作性能提升](https://github.com/louzhedong/blog/issues/179)
-
-[17、前端动画（一）](https://github.com/louzhedong/blog/issues/181)
+[1、React高阶组件](https://github.com/louzhedong/blog/issues/1)
 
 ## 面试习题系列
 
