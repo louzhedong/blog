@@ -89,6 +89,8 @@
 
 [1、快速排序](https://github.com/louzhedong/blog/issues/127)
 
+[2、冒泡排序](https://github.com/louzhedong/blog/issues/183)
+
 ## 每天一道算法题
 
 ### 双指针
