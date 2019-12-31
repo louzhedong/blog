@@ -93,6 +93,8 @@
 
 [3、选择排序](https://github.com/louzhedong/blog/issues/184)
 
+[4、插入排序](https://github.com/louzhedong/blog/issues/185)
+
 ## 每天一道算法题
 
 ### 双指针
