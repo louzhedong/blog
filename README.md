@@ -91,6 +91,8 @@
 
 [2、冒泡排序](https://github.com/louzhedong/blog/issues/183)
 
+[3、选择排序](https://github.com/louzhedong/blog/issues/184)
+
 ## 每天一道算法题
 
 ### 双指针
