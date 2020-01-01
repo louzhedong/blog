@@ -95,15 +95,15 @@
 
 [4、插入排序](https://github.com/louzhedong/blog/issues/185)
 
-[5、希尔排序](todo)
+[5、希尔排序](https://github.com/louzhedong/blog/issues/186)
 
-[6、桶排序](todo)
+[6、桶排序] (todo)
 
-[7、基数排序](todo)
+[7、基数排序] (todo)
 
-[8、归并排序](todo)
+[8、归并排序] (todo)
 
-[9、堆排序](todo)
+[9、堆排序] (todo)
 ## 每天一道算法题
 
 ### 双指针
