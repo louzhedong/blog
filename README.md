@@ -99,7 +99,7 @@
 
 [6、桶排序](https://github.com/louzhedong/blog/issues/187)
 
-[7、基数排序] (todo)
+[7、基数排序](https://github.com/louzhedong/blog/issues/188)
 
 [8、归并排序] (todo)
 
