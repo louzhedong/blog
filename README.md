@@ -101,7 +101,7 @@
 
 [7、基数排序](https://github.com/louzhedong/blog/issues/188)
 
-[8、归并排序] (todo)
+[8、归并排序](https://github.com/louzhedong/blog/issues/189)
 
 [9、堆排序] (todo)
 
