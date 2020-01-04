@@ -54,7 +54,7 @@
 
 [10、浏览器缓存详解](https://github.com/louzhedong/blog/issues/177)
 
-[11、图片懒加载以及尺寸适配]()  (待完成)
+[11、图片懒加载以及尺寸适配](https://github.com/louzhedong/blog/issues/182)
 
 [12、DOM操作性能提升](https://github.com/louzhedong/blog/issues/179)
 
