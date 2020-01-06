@@ -103,7 +103,7 @@
 
 [8、归并排序](https://github.com/louzhedong/blog/issues/189)
 
-[9、堆排序] (todo)
+[9、堆排序](https://github.com/louzhedong/blog/issues/190)
 
 [10、计数排序] (todo)
 ## 每天一道算法题
