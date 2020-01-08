@@ -106,6 +106,9 @@
 [9、堆排序](https://github.com/louzhedong/blog/issues/190)
 
 [10、计数排序](https://github.com/louzhedong/blog/issues/191)
+
+[11、构建二叉搜索树](https://github.com/louzhedong/blog/issues/192)
+
 ## 每天一道算法题
 
 ### 双指针
