@@ -285,6 +285,8 @@
 
 [29、递减元素使数组呈锯齿状](https://github.com/louzhedong/blog/issues/173)
 
+[30、缺失数字](https://github.com/louzhedong/blog/issues/193)
+
 ### 字符串
 
 [1、字符串相乘](https://github.com/louzhedong/blog/issues/17)
