@@ -231,6 +231,8 @@
 
 [1、两数相除](https://github.com/louzhedong/blog/issues/12)
 
+[2、丑数](https://github.com/louzhedong/blog/issues/198)
+
 ### 数组
 
 [1、缺失的第一个正数](https://github.com/louzhedong/blog/issues/15)
