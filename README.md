@@ -139,6 +139,8 @@
 
 [10、除自身以外数组的乘积](https://github.com/louzhedong/blog/issues/148)
 
+[11、丑数2](https://github.com/louzhedong/blog/issues/199)
+
 ### 动态规划
 
 [1、爬楼梯](https://github.com/louzhedong/blog/issues/6)
