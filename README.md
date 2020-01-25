@@ -297,6 +297,8 @@
 
 [30、缺失数字](https://github.com/louzhedong/blog/issues/193)
 
+[31、H指数](https://github.com/louzhedong/blog/issues/200)
+
 ### 字符串
 
 [1、字符串相乘](https://github.com/louzhedong/blog/issues/17)
