@@ -331,6 +331,8 @@
 
 [15、字母板上的路径](https://github.com/louzhedong/blog/issues/170)
 
+[16、单词规律](https://github.com/louzhedong/blog/issues/201)
+
 ### 二分查找
 
 [1、搜索旋转排序数组](https://github.com/louzhedong/blog/issues/25)
