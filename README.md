@@ -60,6 +60,10 @@
 
 [13、前端动画（一）](https://github.com/louzhedong/blog/issues/181)
 
+[14、实现一个模板引擎] (待完成)
+
+[15、webpack原理] (待完成)
+
 ## Vue系列
 
 [1、Vue服务端渲染项目配置](https://github.com/louzhedong/blog/issues/30)
@@ -74,9 +78,19 @@
 
 [6、Vue中Lazyload的一种实现](https://github.com/louzhedong/blog/issues/175)
 
+[7、Vuex原理] (待完成)
+
+[8、VueRouter原理] (待完成)
+
 ## React系列
 
 [1、React高阶组件](https://github.com/louzhedong/blog/issues/1)
+
+[2、React diff算法] (待完成)
+
+[3、Redux原理] (待完成)
+
+[4、ReactRouter原理] (待完成)
 
 ## 面试习题系列
 
