@@ -409,6 +409,8 @@
 
 [3、N皇后 II](https://github.com/louzhedong/blog/issues/56)
 
+[4、给表达式添加运算符](https://github.com/louzhedong/blog/issues/203)
+
 ### 二叉树
 
 [1、不同的二叉搜索树](https://github.com/louzhedong/blog/issues/75)
