@@ -32,7 +32,7 @@
 
 [13、Node.js中package.json中库版本号详解](https://github.com/louzhedong/blog/issues/178)
 
-[14、监听页面关闭] (待完成)
+[14、监听页面关闭](https://github.com/louzhedong/blog/issues/207)
 
 ## 前端深入系列
 
