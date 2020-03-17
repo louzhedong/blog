@@ -34,6 +34,8 @@
 
 [14、监听页面关闭](https://github.com/louzhedong/blog/issues/207)
 
+[15、手写AJAX](https://github.com/louzhedong/blog/issues/208)
+
 ## 前端深入系列
 
 [1、Javascript继承](https://github.com/louzhedong/blog/issues/134)
