@@ -4,75 +4,79 @@
 
 # 文章列表
 
-## 前端基础系列
+## HTML
 
-[1、css 水平垂直居中实现方式](https://github.com/louzhedong/blog/issues/2)
+[1、图片分辨率切换](https://github.com/louzhedong/blog/issues/97)
 
-[2、面试中会遇到的正则题](https://github.com/louzhedong/blog/issues/3)
+[2、BFC原理解析](https://github.com/louzhedong/blog/issues/145)
 
 [3、前端跨域问题总结](https://github.com/louzhedong/blog/issues/27)
 
-[4、z-index总结](https://github.com/louzhedong/blog/issues/95)
+[4、DOMContentLoaded解析](https://github.com/louzhedong/blog/issues/209)
 
-[5、图片分辨率切换](https://github.com/louzhedong/blog/issues/97)
+[5、监听页面关闭](https://github.com/louzhedong/blog/issues/207)
 
-[6、深浅拷贝实现](https://github.com/louzhedong/blog/issues/108)
+[6、浏览器缓存详解](https://github.com/louzhedong/blog/issues/177)
 
-[7、原生JS实现轮播图](https://github.com/louzhedong/blog/issues/120)
+[7、图片懒加载以及尺寸适配](https://github.com/louzhedong/blog/issues/182)
 
-[8、短链接原理](https://github.com/louzhedong/blog/issues/133)
+[8、DOM操作性能提升](https://github.com/louzhedong/blog/issues/179)
 
-[9、BFC原理解析](https://github.com/louzhedong/blog/issues/145)
+[9、viewport深入理解] (待完成)
 
-[10、方法链式调用](https://github.com/louzhedong/blog/issues/165)
+## CSS
 
-[11、JS动态引入](https://github.com/louzhedong/blog/issues/167)
+[1、css 水平垂直居中实现方式](https://github.com/louzhedong/blog/issues/2)
 
-[12、JS中的创建对象](https://github.com/louzhedong/blog/issues/176)
+[2、z-index总结](https://github.com/louzhedong/blog/issues/95)
 
-[13、Node.js中package.json中库版本号详解](https://github.com/louzhedong/blog/issues/178)
+## JS
 
-[14、监听页面关闭](https://github.com/louzhedong/blog/issues/207)
+[1、面试中会遇到的正则题](https://github.com/louzhedong/blog/issues/3)
 
-[15、手写AJAX](https://github.com/louzhedong/blog/issues/208)
+[2、深浅拷贝实现](https://github.com/louzhedong/blog/issues/108)
 
-[16、DOMContentLoaded解析](https://github.com/louzhedong/blog/issues/209)
+[3、原生JS实现轮播图](https://github.com/louzhedong/blog/issues/120)
 
-## 前端深入系列
+[4、方法链式调用](https://github.com/louzhedong/blog/issues/165)
 
-[1、Javascript继承](https://github.com/louzhedong/blog/issues/134)
+[5、JS动态引入](https://github.com/louzhedong/blog/issues/167)
 
-[2、原生JS实现hash路由](https://github.com/louzhedong/blog/issues/119)
+[6、JS中的创建对象](https://github.com/louzhedong/blog/issues/176)
 
-[3、call和apply实现](https://github.com/louzhedong/blog/issues/106)
+[7、手写AJAX](https://github.com/louzhedong/blog/issues/208)
 
-[4、bind实现](https://github.com/louzhedong/blog/issues/107)
+[8、Javascript继承](https://github.com/louzhedong/blog/issues/134)
 
-[5、new原理及实现](https://github.com/louzhedong/blog/issues/143)
+[9、原生JS实现hash路由](https://github.com/louzhedong/blog/issues/119)
 
-[6、编写一个模块化组件](https://github.com/louzhedong/blog/issues/146)
+[10、call和apply实现](https://github.com/louzhedong/blog/issues/106)
 
-[7、Promise规范及实现](https://github.com/louzhedong/blog/issues/180)
+[11、bind实现](https://github.com/louzhedong/blog/issues/107)
 
-[8、图片压缩](https://github.com/louzhedong/blog/issues/164)
+[12、new原理及实现](https://github.com/louzhedong/blog/issues/143)
 
-[9、JS中的this](https://github.com/louzhedong/blog/issues/172)
+[13、Promise规范及实现](https://github.com/louzhedong/blog/issues/180)
 
-[10、浏览器缓存详解](https://github.com/louzhedong/blog/issues/177)
+[14、图片压缩](https://github.com/louzhedong/blog/issues/164)
 
-[11、图片懒加载以及尺寸适配](https://github.com/louzhedong/blog/issues/182)
+[15、JS中的this](https://github.com/louzhedong/blog/issues/172)
 
-[12、DOM操作性能提升](https://github.com/louzhedong/blog/issues/179)
+## NODE
 
-[13、前端动画（一）](https://github.com/louzhedong/blog/issues/181)
+[1、Node.js中package.json中库版本号详解](https://github.com/louzhedong/blog/issues/178)
 
-[14、实现一个模板引擎] (待完成)
+## 动画系列
 
-[15、webpack原理] (待完成)
+[1、前端动画（一）](https://github.com/louzhedong/blog/issues/181)
 
-[16、React Fiber原理](https://github.com/louzhedong/blog/issues/204)
+## 工程化
 
-[17、viewport深入理解] (待完成)
+[1、编写一个模块化组件](https://github.com/louzhedong/blog/issues/146)
+
+[2、实现一个模板引擎] (待完成)
+
+[3、webpack原理] (待完成)
 
 ## Vue系列
 
@@ -101,6 +105,8 @@
 [3、Redux原理] (待完成)
 
 [4、ReactRouter原理] (待完成)
+
+[5、React Fiber原理](https://github.com/louzhedong/blog/issues/204)
 
 ## 面试习题系列
 
@@ -142,6 +148,8 @@
 [14、二叉树的后序遍历](https://github.com/louzhedong/blog/issues/197)
 
 [15、哈夫曼编码](https://github.com/louzhedong/blog/issues/205)
+
+[16、短链接原理](https://github.com/louzhedong/blog/issues/133)
 
 ## 每天一道算法题
 
