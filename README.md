@@ -30,6 +30,8 @@
 
 [2、z-index总结](https://github.com/louzhedong/blog/issues/95)
 
+[3、几种页面Loading动画](https://github.com/louzhedong/blog/issues/211)
+
 ## JS
 
 [1、面试中会遇到的正则题](https://github.com/louzhedong/blog/issues/3)
