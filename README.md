@@ -86,6 +86,10 @@
 
 [4、DDD(领域驱动设计)] (待完成)
 
+## 设计模式
+
+[1、单例模式](https://github.com/louzhedong/blog/issues/212)
+
 ## Vue系列
 
 [1、Vue服务端渲染项目配置](https://github.com/louzhedong/blog/issues/30)
