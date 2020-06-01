@@ -90,6 +90,8 @@
 
 [1、单例模式](https://github.com/louzhedong/blog/issues/212)
 
+[2、工厂模式](https://github.com/louzhedong/blog/issues/213)
+
 ## Vue系列
 
 [1、Vue服务端渲染项目配置](https://github.com/louzhedong/blog/issues/30)
