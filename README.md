@@ -94,6 +94,8 @@
 
 [3、模板方法模式](https://github.com/louzhedong/blog/issues/214)
 
+[4、代理模式](https://github.com/louzhedong/blog/issues/215)
+
 ## Vue系列
 
 [1、Vue服务端渲染项目配置](https://github.com/louzhedong/blog/issues/30)
