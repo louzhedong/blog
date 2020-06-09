@@ -96,6 +96,8 @@
 
 [4、代理模式](https://github.com/louzhedong/blog/issues/215)
 
+[5、中介者模式](https://github.com/louzhedong/blog/issues/216)
+
 ## Vue系列
 
 [1、Vue服务端渲染项目配置](https://github.com/louzhedong/blog/issues/30)
