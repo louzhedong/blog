@@ -66,7 +66,7 @@
 
 [16、JS执行上下文] (待完成)
 
-[17、JavaScript异步编程]（https://github.com/louzhedong/blog/issues/210）
+[17、JavaScript异步编程]（待完成）
 
 ## NODE
 
