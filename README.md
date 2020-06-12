@@ -100,6 +100,8 @@
 
 [6、命令模式](https://github.com/louzhedong/blog/issues/217)
 
+[7、装饰器模式](https://github.com/louzhedong/blog/issues/218)
+
 ## Vue系列
 
 [1、Vue服务端渲染项目配置](https://github.com/louzhedong/blog/issues/30)
