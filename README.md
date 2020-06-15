@@ -24,6 +24,8 @@
 
 [9、viewport深入理解] (待完成)
 
+[10、浏览器理解](https://github.com/louzhedong/blog/issues/219)
+
 ## CSS
 
 [1、css 水平垂直居中实现方式](https://github.com/louzhedong/blog/issues/2)
