@@ -104,6 +104,8 @@
 
 [7、装饰器模式](https://github.com/louzhedong/blog/issues/218)
 
+[8、策略模式](https://github.com/louzhedong/blog/issues/220)
+
 ## Vue系列
 
 [1、Vue服务端渲染项目配置](https://github.com/louzhedong/blog/issues/30)
