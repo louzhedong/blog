@@ -142,7 +142,7 @@
 
 [5、React Fiber原理](https://github.com/louzhedong/blog/issues/204)
 
-[6、Immutable解读](https://github.com/louzhedong/blog/issues/new)
+[6、Immutable解读](https://github.com/louzhedong/blog/issues/224)
 
 ## 面试习题系列
 
