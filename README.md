@@ -112,6 +112,8 @@
 
 [11、组合模式](https://github.com/louzhedong/blog/issues/223)
 
+[12、观察者模式](https://github.com/louzhedong/blog/issues/225)
+
 ## Vue系列
 
 [1、Vue服务端渲染项目配置](https://github.com/louzhedong/blog/issues/30)
