@@ -118,6 +118,8 @@
 
 [14、解释器模式](https://github.com/louzhedong/blog/issues/227)
 
+[15、享元模式](https://github.com/louzhedong/blog/issues/228)
+
 ## Vue系列
 
 [1、Vue服务端渲染项目配置](https://github.com/louzhedong/blog/issues/30)
