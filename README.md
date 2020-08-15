@@ -70,6 +70,8 @@
 
 [17、JavaScript异步编程]（待完成）
 
+[18、Proxy使用](https://github.com/louzhedong/blog/issues/229)
+
 ## NODE
 
 [1、Node.js中package.json中库版本号详解](https://github.com/louzhedong/blog/issues/178)
