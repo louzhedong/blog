@@ -199,6 +199,8 @@
 
 [16、短链接原理](https://github.com/louzhedong/blog/issues/133)
 
+[17、AVL树](https://github.com/louzhedong/blog/issues/233)
+
 ## 每天一道算法题
 
 ### 双指针
