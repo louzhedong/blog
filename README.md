@@ -148,7 +148,7 @@
 
 [2、React diff算法] (待完成)
 
-[3、实现一个简单的Redux] (https://github.com/louzhedong/blog/issues/234)
+[3、实现一个简单的Redux](https://github.com/louzhedong/blog/issues/234)
 
 [4、ReactRouter原理] (待完成)
 
