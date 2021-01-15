@@ -92,6 +92,8 @@
 
 [5、git基础](https://github.com/louzhedong/blog/issues/231)
 
+[6、灰度发布] (待完成)
+
 ## 设计模式
 
 [1、单例模式](https://github.com/louzhedong/blog/issues/212)
