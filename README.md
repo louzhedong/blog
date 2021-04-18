@@ -213,6 +213,8 @@
 
 [3、比较含退格的字符串](https://github.com/louzhedong/blog/issues/239)
 
+[4、删除最外层的括号](https://github.com/louzhedong/blog/issues/240)
+
 ### 双指针
 
 [1、盛最多水的容器](https://github.com/louzhedong/blog/issues/5)
