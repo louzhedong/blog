@@ -215,6 +215,8 @@
 
 [4、删除最外层的括号](https://github.com/louzhedong/blog/issues/240)
 
+[5、删除字符串中的所有相邻重复项](https://github.com/louzhedong/blog/issues/241)
+
 ### 双指针
 
 [1、盛最多水的容器](https://github.com/louzhedong/blog/issues/5)
