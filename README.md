@@ -217,6 +217,8 @@
 
 [5、删除字符串中的所有相邻重复项](https://github.com/louzhedong/blog/issues/241)
 
+[6、验证二叉树的前序序列化](https://github.com/louzhedong/blog/issues/242)
+
 ### 双指针
 
 [1、盛最多水的容器](https://github.com/louzhedong/blog/issues/5)
