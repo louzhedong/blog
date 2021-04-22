@@ -219,6 +219,8 @@
 
 [6、验证二叉树的前序序列化](https://github.com/louzhedong/blog/issues/242)
 
+[7、扁平化嵌套列表迭代器](https://github.com/louzhedong/blog/issues/243)
+
 ### 双指针
 
 [1、盛最多水的容器](https://github.com/louzhedong/blog/issues/5)
