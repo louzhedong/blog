@@ -221,6 +221,8 @@
 
 [7、扁平化嵌套列表迭代器](https://github.com/louzhedong/blog/issues/243)
 
+[8、移掉K位数字](https://github.com/louzhedong/blog/issues/244)
+
 ### 双指针
 
 [1、盛最多水的容器](https://github.com/louzhedong/blog/issues/5)
