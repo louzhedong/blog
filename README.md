@@ -225,6 +225,8 @@
 
 [8、移掉K位数字](https://github.com/louzhedong/blog/issues/244)
 
+[9、去除重复字母](https://github.com/louzhedong/blog/issues/246)
+
 ### 双指针
 
 [1、盛最多水的容器](https://github.com/louzhedong/blog/issues/5)
