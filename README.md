@@ -341,6 +341,8 @@
 
 [21、实现 Trie (前缀树)](https://github.com/louzhedong/blog/issues/160)
 
+[22、K 进制表示下的各位数字总和](https://github.com/louzhedong/blog/issues/247)
+
 ### 辗转相除
 
 [1、两数相除](https://github.com/louzhedong/blog/issues/12)
