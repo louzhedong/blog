@@ -251,6 +251,8 @@
 
 [11、丑数2](https://github.com/louzhedong/blog/issues/199)
 
+[12、最高频元素的频数](https://github.com/louzhedong/blog/issues/248)
+
 ### 动态规划
 
 [1、爬楼梯](https://github.com/louzhedong/blog/issues/6)
