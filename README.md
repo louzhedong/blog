@@ -253,6 +253,8 @@
 
 [12、最高频元素的频数](https://github.com/louzhedong/blog/issues/248)
 
+[13、所有元音按顺序排布的最长子字符串](https://github.com/louzhedong/blog/issues/249)
+
 ### 动态规划
 
 [1、爬楼梯](https://github.com/louzhedong/blog/issues/6)
