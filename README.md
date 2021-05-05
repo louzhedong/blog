@@ -307,6 +307,8 @@
 
 [22、完全平方数](https://github.com/louzhedong/blog/issues/202)
 
+[23、删除并获得点数](https://github.com/louzhedong/blog/issues/253)
+
 ### 递归
 
 [1、电话号码的字母组合](https://github.com/louzhedong/blog/issues/8)
