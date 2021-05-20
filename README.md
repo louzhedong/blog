@@ -431,6 +431,8 @@
 
 [31、H指数](https://github.com/louzhedong/blog/issues/200)
 
+[32、前K个高频单词](https://github.com/louzhedong/blog/issues/255)
+
 ### 字符串
 
 [1、字符串相乘](https://github.com/louzhedong/blog/issues/17)
