@@ -315,6 +315,8 @@
 
 [23、删除并获得点数](https://github.com/louzhedong/blog/issues/253)
 
+[24、奇怪的打印机](https://github.com/louzhedong/blog/issues/256)
+
 ### 递归
 
 [1、电话号码的字母组合](https://github.com/louzhedong/blog/issues/8)
