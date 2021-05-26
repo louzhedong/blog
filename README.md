@@ -239,6 +239,8 @@
 
 [12、字符串解码](https://github.com/louzhedong/blog/issues/252)
 
+[13、反转每对括号间的子串](https://github.com/louzhedong/blog/issues/257)
+
 ### 双指针
 
 [1、盛最多水的容器](https://github.com/louzhedong/blog/issues/5)
