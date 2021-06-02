@@ -580,3 +580,8 @@
 ### 位运算
 
 [1、解码异或后的数组](https://github.com/louzhedong/blog/issues/254)
+
+### 前缀和
+
+[1、连续的子数组和](https://github.com/louzhedong/blog/issues/258)
+
