@@ -585,3 +585,5 @@
 
 [1、连续的子数组和](https://github.com/louzhedong/blog/issues/258)
 
+[2、连续数组](https://github.com/louzhedong/blog/issues/259)
+
