@@ -100,6 +100,8 @@
 
 [6、灰度发布] (待完成)
 
+[7、实现一个简单的vscode 插件](https://github.com/louzhedong/blog/issues/260)
+
 ## 设计模式
 
 [1、单例模式](https://github.com/louzhedong/blog/issues/212)
